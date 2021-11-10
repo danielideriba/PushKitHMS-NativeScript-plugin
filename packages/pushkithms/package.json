@@ -1,0 +1,36 @@
+{
+    "name": "@hms-plugin/pushkithms",
+    "version": "1.0.0",
+    "description": "Add a plugin description",
+    "main": "index",
+    "typings": "index.d.ts",
+    "nativescript": {
+        "platforms": {
+            "ios": "6.0.0",
+            "android": "6.0.0"
+        }
+    },
+    "useV8symbols": true,
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/danielideriba/PushKitHMS-NativeScript-plugin.git"
+    },
+    "keywords": [
+        "NativeScript",
+        "JavaScript",
+        "TypeScript",
+        "iOS",
+        "Android"
+    ],
+    "author": {
+        "name": "daniel",
+        "email": "danielideriba@gmail.com"
+    },
+    "bugs": {
+        "url": "https://github.com/danielideriba/PushKitHMS-NativeScript-plugin/issues"
+    },
+    "license": "Apache-2.0",
+    "homepage": "https://github.com/danielideriba/PushKitHMS-NativeScript-plugin",
+    "readmeFilename": "README.md",
+    "bootstrapper": "@nativescript/plugin-seed"
+}
